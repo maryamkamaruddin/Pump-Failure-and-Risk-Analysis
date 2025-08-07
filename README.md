@@ -1,6 +1,6 @@
 # Pump-Failure-and-Risk-Dashboard
 
-About this proejct : Personal Project
+About this project : Personal Project
 
 Goal
 
