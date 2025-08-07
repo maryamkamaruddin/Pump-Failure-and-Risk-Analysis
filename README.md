@@ -1,5 +1,7 @@
 # Pump-Failure-and-Risk-Dashboard
 
+About this proejct : Personal Project
+
 Goal
 
 This project aims to develop an interactive Power BI dashboard that analyzes and visualizes pump failure risks based on failure modes, locations, and risk severity levels. The dashboard provides valuable insights for the maintenance team, enabling them to prioritize preventive maintenance action.
