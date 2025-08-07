@@ -44,7 +44,20 @@ Calculated Measures
 - Under Maintenance Count
 
 2. Data Modeling
+
 ![Image Alt](https://github.com/maryamkamaruddin/Pump-Failure-and-Risk-Dashboard/blob/7cafb52de75511250fb1dd4112ae457b0f0a4f98/Data%20Model%20-%20Star%20Schema.JPG)
+
+
+
+
+
+
+
+
+
+
+
+
 
 A star schema approach was used to structure the data model. The data model was structured using fact and dimension tables, including :
 - Fact_PumpData : Stores key risk metrics and pump failure records.
@@ -56,6 +69,11 @@ A star schema approach was used to structure the data model. The data model was 
 Relationships were established between these tables, ensuring smooth filtering and drill-down analysis. The Fact_PumpData table connects with all dimension tables using one-to-many relationships to enable effective aggregation.This structure enhances filtering and improves Power BI performance by separating dimensions from the main fact table.
 
 Design
+
+![Image Alt](https://github.com/maryamkamaruddin/Pump-Failure-and-Risk-Dashboard/blob/d223fd8a9318cd0d654e5ea3fdf380be060c456e/Pump%20Failure%20and%20Risk%20Dashboard.jpg)
+
+
+
 
 
 The dashboard includes multiple key visualizations to enhance data understanding :
