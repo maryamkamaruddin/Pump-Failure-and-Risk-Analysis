@@ -1,6 +1,7 @@
 # Pump-Failure-and-Risk-Dashboard
 
-About this project : Personal Project
+- About this project : Personal Project
+- Tools : Excel, Power BI
 
 Goal
 
