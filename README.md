@@ -1,4 +1,4 @@
-# Pump-Failure-and-Risk-Dashboard
+# Pump-Failure-and-Risk-Assessment-Dashboard
 
 - About this project : Personal Project
 - Tools : Excel, Power BI
@@ -73,7 +73,7 @@ Relationships were established between these tables, ensuring smooth filtering a
 
 Design
 
-![Image Alt](https://github.com/maryamkamaruddin/Pump-Failure-and-Risk-Dashboard/blob/d223fd8a9318cd0d654e5ea3fdf380be060c456e/Pump%20Failure%20and%20Risk%20Dashboard.jpg)
+![Image Alt](https://github.com/maryamkamaruddin/Pump-Failure-and-Risk-Dashboard/blob/0f59f425867333e1cfa242bf3cbee723566ab543/Pump%20Failure%20and%20Risk%20Assessment%20Dashboard.jpg)
 
 
 
